@@ -9,7 +9,7 @@ import org.springframework.stereotype.Controller;
 import java.util.List;
 import java.util.Scanner;
 
-// Testando atualização.
+// Testando atualização de versão.
 
 @Controller
 public class SetorController {
